@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Infolabz/static/css/main.ff79ec8e.css",
+    "main.js": "/Infolabz/static/js/main.fcc29678.js",
+    "static/js/787.c19cb8e4.chunk.js": "/Infolabz/static/js/787.c19cb8e4.chunk.js",
+    "static/media/logo.svg": "/Infolabz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Infolabz/index.html",
+    "main.ff79ec8e.css.map": "/Infolabz/static/css/main.ff79ec8e.css.map",
+    "main.fcc29678.js.map": "/Infolabz/static/js/main.fcc29678.js.map",
+    "787.c19cb8e4.chunk.js.map": "/Infolabz/static/js/787.c19cb8e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff79ec8e.css",
+    "static/js/main.fcc29678.js"
+  ]
+}
